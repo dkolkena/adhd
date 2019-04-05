@@ -208,6 +208,8 @@ These tests can be long, stressful, and expensive, but is the only way to be off
 * ADHD Coaching
 * Medication
 
+^ First step is understanding and accepting the diagnosis. There's no easy cure. Nothing will make this not a challenge.
+
 ^ CBT focuses on improving habits and behavior by practicing healthy coping mechanisms
 
 ---
@@ -313,7 +315,7 @@ Don't be afraid to evaluate different tools to figure out what works for _you_.
 ---
 
 > "And now that you don't have to be perfect, you can be good."
--- John Steinbeck, East of Eden
+-- John Steinbeck, _East of Eden_
 
 ^ Self-improvement is a life-long challenge. You're going to fail. But that's okay. We improve by degrees.
 
@@ -326,7 +328,12 @@ Don't be afraid to evaluate different tools to figure out what works for _you_.
 Feel free to reach out!
 
 Email: daniel.kolkena@gmail.com
-**@dkolkena** on Twitter
+Twitter: @dkolkena
+
+This slidedeck is available at:
+**https://github.com/dkolkena/adhd**
+
+<sub>This presentation was built with Deckset.</sub>
 
 ---
 [.build-lists: false]
