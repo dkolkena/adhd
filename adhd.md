@@ -5,11 +5,16 @@ build-lists: true
 
 ## Attention++: Professional Success with Adult ADHD in Tech
 
+#### Endurance Lunch and Learn
+#### April 5, 2019
+
 ---
 
 # Intro
 
 Attention Deficit/Hyperactivity Disorder is a neurodevelopmental disorder that affects up to 5% of adults. It’s an often misunderstood condition that can significantly affect one’s personal and professional life. I’m excited to share insights from a career full of highs and lows managing Adult ADHD and some tools for anyone, ADHD or not, interested in improving their productivity.
+
+^ This is an exercise in vulnerability!
 
 ---
 
