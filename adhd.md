@@ -34,12 +34,18 @@ Daniel Kolkena is a Senior DevOps Engineer with 10 years of industry experience 
 
 I have received _no_ compensation for any recommendations I make of treatments, techniques, or products. The information and advice contained herein is solely the result of my own research and experience.
 
+^ I can't diagnose you, and I highly recommend against diagnosing yourself. If you feel like you identify enough with these challenges for a formal diagnosis, talk to your doctor!
+
 ---
 [.build-lists: false]
 # What will this talk cover?
 
 1. What is ADHD
 1. What can I do about it?
+
+^ Take an informal poll: How many people here know they have ADHD? How many suspect they might? How many don't, but know someone who does that might benefit from this talk?
+
+^ This talk is aimed at people who know or suspect that they have ADHD and want help to succeed in the workplace. I'll talk about what it is, as well as available treatments and techniques to overcome those challenges
 
 ---
 [.hide-footer]
@@ -132,13 +138,13 @@ In addition to the previous criteria, you must have
 
 ^ Depression: could be reaction to environmental stressors, or sometimes correlate with bipolar (impulsivity)
 
-^ Anxiety: mood swings, lack of energy, low self-esteem, imposter syndrome
+^ Anxiety: sense of impending doom (exacerbated by procrastination), mood swings, lack of energy, low self-esteem, imposter syndrome
 
-^ ODD: refusing to comply with rules, frequent periods of anger/resentfulness
+^ ODD: refusing to comply with rules, frequent periods of anger/resentfulness, potentially issues with unhealthy criminal behavior
 
 ^ Tics could include vocal tics, motor tics, nervous habits like nail biting/nose picking/hair pulling, even Tourette's
 
-^ Spectrum disorders share some elements with ADHD but is a separate diagnosis
+^ Like ADHD, Spectrum disorders can affect language skills, behavior, social interactions, and the ability to learn. Share "neurodiversity", share some elements with ADHD but are a separate diagnosis.
 
 ---
 [.build-lists: false]
