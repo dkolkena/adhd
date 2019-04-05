@@ -3,6 +3,10 @@ slidenumbers: true
 autoscale: true
 build-lists: true
 
+## Attention++: Professional Success with Adult ADHD in Tech
+
+---
+
 # Intro
 
 Attention Deficit/Hyperactivity Disorder is a neurodevelopmental disorder that affects up to 5% of adults. It’s an often misunderstood condition that can significantly affect one’s personal and professional life. I’m excited to share insights from a career full of highs and lows managing Adult ADHD and some tools for anyone, ADHD or not, interested in improving their productivity.
@@ -304,7 +308,14 @@ Don't be afraid to evaluate different tools to figure out what works for _you_.
 
 ^ We have cognitive challenges that affect our lives, but they can also be a source of our unique creative power
 
-^ We're patient, empathetic, and compassionate; able to see big picture ideas, be passionate about what drives us
+^ We're patient, empathetic, and compassionate; able to see big picture ideas, passionate about what drives us
+
+---
+
+> "And now that you don't have to be perfect, you can be good."
+-- John Steinbeck, East of Eden
+
+^ Self-improvement is a life-long challenge. You're going to fail. But that's okay. We improve by degrees.
 
 ^ You can do the hard thing!
 
