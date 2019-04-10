@@ -5,16 +5,8 @@ build-lists: true
 
 ## Attention++: Professional Success with Adult ADHD in Tech
 
-#### Endurance Lunch and Learn
-#### April 5, 2019
-
----
-
-# Intro
-
-Attention Deficit/Hyperactivity Disorder is a neurodevelopmental disorder that affects up to 5% of adults. It’s an often misunderstood condition that can significantly affect one’s personal and professional life. I’m excited to share insights from a career full of highs and lows managing Adult ADHD and some tools for anyone, ADHD or not, interested in improving their productivity.
-
-^ This is an exercise in vulnerability!
+#### OpenWest
+#### April 10, 2019
 
 ---
 
@@ -22,7 +14,15 @@ Attention Deficit/Hyperactivity Disorder is a neurodevelopmental disorder that a
 
 # About the Presenter
 
-Daniel Kolkena is a Senior DevOps Engineer with 10 years of industry experience in system administration, software development, and application support. This, despite dropping out of college–twice! He’s passionate about tooling, process optimization, self-improvement, and music from the 80s.
+Daniel Kolkena is a Senior DevOps Engineer with 10 years of industry experience in system administration, software development, and application support. This, despite dropping out of college–twice! He’s passionate about tooling, process optimization, self-improvement, and music from the 1980s.
+
+^ Discuss personal story! "Gifted" child, underachiver in adolescence, chronic underperformer in college and early in career.
+
+---
+
+# Intro
+
+Attention Deficit/Hyperactivity Disorder is a neurodevelopmental disorder that affects up to 5% of adults. It’s an often misunderstood condition that can significantly affect one’s personal and professional life. I’m excited to share insights from a career full of highs and lows managing Adult ADHD and some tools for anyone, ADHD or not, interested in improving their productivity.
 
 ---
 
@@ -46,6 +46,8 @@ I have received _no_ compensation for any recommendations I make of treatments, 
 ^ Take an informal poll: How many people here know they have ADHD? How many suspect they might? How many don't, but know someone who does that might benefit from this talk?
 
 ^ This talk is aimed at people who know or suspect that they have ADHD and want help to succeed in the workplace. I'll talk about what it is, as well as available treatments and techniques to overcome those challenges
+
+^ Reassure audience that links to the slide will be shared at the end  
 
 ---
 [.hide-footer]
@@ -136,13 +138,13 @@ In addition to the previous criteria, you must have
 * Tic disorders
 * Autism spectrum disorders
 
-^ Depression: could be reaction to environmental stressors, or sometimes correlate with bipolar (impulsivity)
+^ Depression: could be reaction to environmental stressors, or sometimes correlate with bipolar (impulsivity). Imagine the effect of constantly being told you failed just because you didn't try hard enough etc.
 
 ^ Anxiety: sense of impending doom (exacerbated by procrastination), mood swings, lack of energy, low self-esteem, imposter syndrome
 
 ^ ODD: refusing to comply with rules, frequent periods of anger/resentfulness, potentially issues with unhealthy criminal behavior
 
-^ Tics could include vocal tics, motor tics, nervous habits like nail biting/nose picking/hair pulling, even Tourette's
+^ Tics could include vocal tics, motor tics, nervous habits like nail biting/nose picking/hair pulling/knuckle cracking/jaw clenching, even Tourette's
 
 ^ Like ADHD, Spectrum disorders can affect language skills, behavior, social interactions, and the ability to learn. Share "neurodiversity", share some elements with ADHD but are a separate diagnosis.
 
@@ -344,7 +346,7 @@ Twitter: @dkolkena
 This slidedeck is available at:
 **https://github.com/dkolkena/adhd**
 
-<sub>This presentation was built with Deckset.</sub>
+<sub>This presentation was built in Markdown with [Deckset](https://www.deckset.com/).</sub>
 
 ---
 [.build-lists: false]
