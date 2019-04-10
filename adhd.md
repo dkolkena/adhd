@@ -24,6 +24,10 @@ Daniel Kolkena is a Senior DevOps Engineer with 10 years of industry experience 
 
 Attention Deficit/Hyperactivity Disorder is a neurodevelopmental disorder that affects up to 5% of adults. It’s an often misunderstood condition that can significantly affect one’s personal and professional life. I’m excited to share insights from a career full of highs and lows managing Adult ADHD and some tools for anyone, ADHD or not, interested in improving their productivity.
 
+^ It's estimated that 5% of adults are affected by ADHD
+
+^ This is an important topic for me because it's affected my professional life so profoundly. I'm happy to share some of the resources I've found along the way.
+
 ---
 
 # Disclaimers
@@ -36,6 +40,8 @@ I have received _no_ compensation for any recommendations I make of treatments, 
 
 ^ I can't diagnose you, and I highly recommend against diagnosing yourself. If you feel like you identify enough with these challenges for a formal diagnosis, talk to your doctor!
 
+^ Any recommendations I make are based on my own experience. I have not been paid for anything I speak about today. Which kind of sucks now that I think about it.
+
 ---
 [.build-lists: false]
 # What will this talk cover?
@@ -43,11 +49,11 @@ I have received _no_ compensation for any recommendations I make of treatments, 
 1. What is ADHD
 1. What can I do about it?
 
-^ Take an informal poll: How many people here know they have ADHD? How many suspect they might? How many don't, but know someone who does that might benefit from this talk?
+^ Take an informal poll: How many people here know they have ADHD? How many suspect they might? You are among friends here.
 
 ^ This talk is aimed at people who know or suspect that they have ADHD and want help to succeed in the workplace. I'll talk about what it is, as well as available treatments and techniques to overcome those challenges
 
-^ Reassure audience that links to the slide will be shared at the end  
+^ Reassure audience that they should feel free to take notes, but there will be links to the slidedeck shared at the end, including citation and external link info
 
 ---
 [.hide-footer]
@@ -82,6 +88,8 @@ I have received _no_ compensation for any recommendations I make of treatments, 
 * Is often easily distracted
 * Is often forgetful in daily activities.
 
+^ The Inattention subtype deals with being easily distracted or forgetful. Symptoms include things like daydreaming, struggling to stay on task, and a general lack of organization.
+
 ^ For adults, at least 5 symptoms are required.
 
 ---
@@ -99,6 +107,8 @@ I have received _no_ compensation for any recommendations I make of treatments, 
 * Often has trouble waiting his/her turn.
 * Often interrupts or intrudes on others (e.g., butts into conversations or games)
 
+^ The Hyperactive subtype deals with feeling restless and fidgety. This is the "classic" stereotype of ADD.
+
 ^ For adults, at least 5 symptoms are required.
 
 ---
@@ -114,6 +124,20 @@ In addition to the previous criteria, you must have
 * The symptoms do not occur exclusively during the course of schizophrenia or another psychotic disorder and are not better explained by another mental disorder (e.g., mood disorder, anxiety disorder, dissociative disorder, personality disorder, substance intoxication or withdrawal).
 
 ---
+
+# Causes of ADHD
+
+* There’s no scientific consensus on a single cause
+* Research points to a heavily genetic component; there’s evidence for environmental factors as well
+* Predominant theory: dopamine and norepinephrine neurotransmitters don’t work the same way a neurotypical brain does, so we don’t receive the standard reward feedback for accomplishing tasks
+
+^ Discuss myths: sugar, caffeine, the teevee, that dang rock music that all the kids listen to
+
+^ Reward feedback loop - our brains don't feel the same sense of reward
+
+^ OTOH, for intrinsically motivation activities, it's easy to hyperfocus
+
+---
 ![right fit](todolists.jpg)
 
 # Areas of Difficulty Managing Daily Activities
@@ -124,7 +148,7 @@ In addition to the previous criteria, you must have
 * Poor self-motivation
 * Poor self-activation, concentration, and alertness
 
-^ Executive function: Persistent poor time management, impaired executive function, impulsivity, failing to start
+^ The prefrontal cortex is responsible for what we call Executive function: attention control, inhibition, working memory, time management, and problem solving.
 
 ---
 
@@ -166,18 +190,6 @@ You can do the hard thing!
 ^ Pattern of failure -> low self-esteem
 
 ^ These feelings of inadequacy can linger despite significant evidence to the contrary
-
----
-
-# Causes of ADHD
-
-* There’s no scientific consensus on a single cause
-* Research points to a heavily genetic component; there’s evidence for environmental factors as well
-* Predominant theory: dopamine and norepinephrine neurotransmitters don’t work the same way a neurotypical brain does, so we don’t receive the standard reward feedback for accomplishing tasks
-
-^ Discuss myths: sugar, caffeine, the teevee, that dang rock music that all the kids listen to
-
-^ Reward feedback loop
 
 ---
 
@@ -236,11 +248,13 @@ These tests can be long, stressful, and expensive, but is the only way to be off
 
 ^ Stimulant meds trick the brain into producing chemicals at a rate much closer to that of neurotypical brains. Many of us already self-medicate with caffeine!
 
-^ Side effects include lack of appetite, restlessness, mild euphoria, small potential for abuse if not used as indicated by doctor
+^ --Side effects include lack of appetite, restlessness, mild euphoria, small potential for abuse if not used as indicated by doctor
 
 ^ Non-stimulant medications help by boosting norepinephrine, decreasing impulsivity – less risk of abuse, take longer to work
 
 ^ There is no single drug that works for everyone! Figuring out drug/dosage is a process with your doc
+
+^ It's also possible that no drugs are ideal or worth the side effects. Some people choose not to medicate, and that's okay!
 
 ---
 
@@ -261,10 +275,13 @@ Exercise, sleep, and good nutrition can help but do not represent a comprehensiv
 
 # Be honest with yourself!
 
-* Taking on too much leads to a cycle of overpromise/underdeliver and instills a sense of hopelessness and failure
-* Look at your previous successes and failures and your work throughput. Use that to give yourself a baseline of what you can reasonably commit to.
-* Give yourself buffer time to deliver your commitments. 2 story points but you’re not confident in the implementation details yet? Make it 3 or 5.
-* Consistently delivering commitments on time–even if it’s less than you think you might be capable of–will give you confidence and develop your reputation.
+* Don't take on more than you're comfortable with!
+* Give yourself buffer time to deliver your commitments.
+* Don’t be afraid to ask for help!
+
+^ Taking on too much leads to a cycle of overpromise/underdeliver and instills a sense of hopelessness and failure. Look at your previous successes and failures and your work throughput. Use that to give yourself a baseline of what you can reasonably commit to.
+
+^ 2 story points but you’re not confident in the implementation details yet? Make it 3 or 5. Consistently delivering commitments on time–even if it’s less than you think you might be capable of–will give you confidence and develop your reputation.
 
 ---
 
@@ -298,6 +315,9 @@ Don't be afraid to evaluate different tools to figure out what works for _you_.
 * Dark UI, IDE
 * Quiet space/headphones
 * Work with team to establish optimum communication channels
+* Offsetting your working hours
+
+^ Communications in whatever manner works best for your cognition and retention (face to face/conference calls/group chat/email)
 
 ---
 
@@ -306,16 +326,14 @@ Don't be afraid to evaluate different tools to figure out what works for _you_.
 * ADA legally protects “reasonable accommodation” requests
 * Can ask for shorter feedback cycles
 * Detailed acceptance criteria
-* Communications in whatever manner works best for your cognition and retention (face to face/conference calls/group chat/email)
-* Don’t be afraid to ask for help!
 * Ask about mentorships (a great resource for a professional at any stage in their career!)
 * **Caveat:** professional risk
 
 ^ Being upfront about your needs can be reassuring to your team and supervisor
 
-^ Can project a sense of laziness or casualness that doesn't describe the real you
+^ However, some people believe it doesn’t exist/is an excuse for laziness
 
-^ Some people believe it doesn’t exist/is an excuse for laziness
+^ --Could give the impression of laziness or casualness that doesn't describe the real you
 
 ---
 
