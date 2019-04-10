@@ -90,7 +90,7 @@ I have received _no_ compensation for any recommendations I make of treatments, 
 
 ^ The Inattention subtype deals with being easily distracted or forgetful. Symptoms include things like daydreaming, struggling to stay on task, and a general lack of organization.
 
-^ For adults, at least 5 symptoms are required.
+^ For adults, at least 5 symptoms from this list are required.
 
 ---
 [.build-lists: false]
@@ -109,7 +109,7 @@ I have received _no_ compensation for any recommendations I make of treatments, 
 
 ^ The Hyperactive subtype deals with feeling restless and fidgety. This is the "classic" stereotype of ADD.
 
-^ For adults, at least 5 symptoms are required.
+^ For adults, at least 5 symptoms from this list are required.
 
 ---
 [.build-lists: false]
@@ -131,9 +131,9 @@ In addition to the previous criteria, you must have
 * Research points to a heavily genetic component; there’s evidence for environmental factors as well
 * Predominant theory: dopamine and norepinephrine neurotransmitters don’t work the same way a neurotypical brain does, so we don’t receive the standard reward feedback for accomplishing tasks
 
-^ Discuss myths: sugar, caffeine, the teevee, that dang rock music that all the kids listen to
+^ Discuss pervasive myths: sugar, caffeine, the teevee, that dang rock music that all the kids listen to
 
-^ Reward feedback loop - our brains don't feel the same sense of reward
+^ Reward feedback loop: our brains don't feel the same sense of reward as neurotypical brains
 
 ^ OTOH, for intrinsically motivation activities, it's easy to hyperfocus
 
@@ -149,6 +149,8 @@ In addition to the previous criteria, you must have
 * Poor self-activation, concentration, and alertness
 
 ^ The prefrontal cortex is responsible for what we call Executive function: attention control, inhibition, working memory, time management, and problem solving.
+
+^ This is why we might struggle to complete a simple documentation update or bugfix, but spend several hours tinkering with bash dotfiles or tmux settings. Or do all the chores at home we've been putting off instead of
 
 ---
 
@@ -187,11 +189,12 @@ You can do the hard thing!
 
 ^ This is a HUGE thing in tech!
 
-^ Pattern of failure -> low self-esteem
+^ A pattern of failure will lead to internalized low self-esteem
 
-^ These feelings of inadequacy can linger despite significant evidence to the contrary
+^ These feelings of inadequacy can linger despite any evidence to the contrary or external validation
 
 ---
+![right 125%](squirrel.png)
 
 # How does this affect my life?
 
@@ -238,11 +241,11 @@ These tests can be long, stressful, and expensive, but is the only way to be off
 ^ CBT focuses on improving habits and behavior by practicing healthy coping mechanisms
 
 ---
-
+![right 200%](medicine.jpg)
 # Medication
 
-* Stimulant: Adderall, Ritalin, Concerta, Vyvanse
-* Non-stimulant: Strattera, Clonidine, Guanfacine
+* Stimulant: Adderall, Ritalin, Concerta, Vyvanse, etc.
+* Non-stimulant: Strattera, Clonidine, Guanfacine, etc.
 * Everyone reacts differently to different medications
 * Work with your doctor to find what works for you
 
@@ -252,7 +255,7 @@ These tests can be long, stressful, and expensive, but is the only way to be off
 
 ^ Non-stimulant medications help by boosting norepinephrine, decreasing impulsivity – less risk of abuse, take longer to work
 
-^ There is no single drug that works for everyone! Figuring out drug/dosage is a process with your doc
+^ There is no single drug that works for everyone! What works for me might be awful for you, and vice versa. Figuring out drug/dosage is a process with your doc
 
 ^ It's also possible that no drugs are ideal or worth the side effects. Some people choose not to medicate, and that's okay!
 
@@ -261,6 +264,10 @@ These tests can be long, stressful, and expensive, but is the only way to be off
 # Non-medication treatment
 
 Exercise, sleep, and good nutrition can help but do not represent a comprehensive treatment plan by themselves
+
+^ Meditation and mindfulness exercises are also helpful!
+
+^ Stress management techniques, supportive community, etc.
 
 ---
 
@@ -297,15 +304,14 @@ Exercise, sleep, and good nutrition can help but do not represent a comprehensiv
 [.build-lists: false]
 # Organizational tools
 
-* OneNote, Evernote, G-suite, Trello, Workflowy, Airtable, Todoist, Notion.so
-* CLI tools
+* Google Suite, [OneNote](https://products.office.com/en-us/onenote/digital-note-taking-app), [Evernote](https://evernote.com/), [Trello](https://trello.com), [Wunderlist](https://www.wunderlist.com/), [Workflowy](https://workflowy.com), [Airtable](https://airtable.com/), [Todoist](https://todoist.com), [Notion.so](https://www.notion.so/), even CLI tools
 * Physical notebook w/ pen
 
 Don't be afraid to evaluate different tools to figure out what works for _you_.
 
-^ Take notes constantly, this can make all the difference. Don't be afraid to invest lots of "overhead" time into writing and reviewing notes
+^ Being asked for a status update for a task you've forgotten about is humiliating.
 
-^ Story of taking notes and being always prepared at Sorenson when asked for info
+^ Take notes constantly, this can make all the difference. Don't be afraid to invest lots of "overhead" time into writing and reviewing notes. My productivity went through the roof once I committed to capturing as much as possible in meetings.
 
 ---
 
@@ -333,7 +339,7 @@ Don't be afraid to evaluate different tools to figure out what works for _you_.
 
 ^ However, some people believe it doesn’t exist/is an excuse for laziness
 
-^ --Could give the impression of laziness or casualness that doesn't describe the real you
+^ --That could give the impression of laziness or casualness that doesn't describe the real you
 
 ---
 
@@ -369,15 +375,16 @@ This slidedeck is available at:
 ---
 [.build-lists: false]
 ### Resources
-
 * *Taking Charge of Adult ADHD* by Russell A Barkley
+* The ADHD subreddit [/r/ADHD](https://www.reddit.com/r/ADHD/)
+* Dani Donovan ([adhddd.com](https://adhddd.com))
+* Jessica McCabe's excellent [How to ADHD](https://howtoadhd.com/) series
+
+### Citations
 * https://www.addrc.org/dsm-5-criteria-for-adhd/
 * https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd/index.shtml
-* https://www.reddit.com/r/ADHD/
-* https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
 * https://en.wikipedia.org/wiki/Adult_attention_deficit_hyperactivity_disorder
 * https://add.org/adhd-facts/
-* https://adhddd.com
 
 ---
 
@@ -387,4 +394,5 @@ This slidedeck is available at:
 
 * Photo by [Erik Mclean](https://unsplash.com/photos/Tso1j6dz0H8) on [Unsplash](https://unsplash.com)
 * Photo by [Aravind Vijayan](https://unsplash.com/photos/Go6jxhtleYs) on [Unsplash](https://unsplash.com)
+* Photo from Pixabay
 -->
