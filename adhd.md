@@ -51,9 +51,9 @@ I have received _no_ compensation for any recommendations I make of treatments, 
 
 ^ Take an informal poll: How many people here know they have ADHD? How many suspect they might? You are among friends here.
 
-^ This talk is aimed at people who know or suspect that they have ADHD and want help to succeed in the workplace. I'll talk about what it is, as well as available treatments and techniques to overcome those challenges
+^ This talk is aimed at people who know or suspect that they have ADHD and want help to succeed in the workplace. I'll talk about what it is, as well as available treatments and techniques to overcome those challenges.
 
-^ Reassure audience that they should feel free to take notes, but there will be links to the slidedeck shared at the end, including citation and external link info
+^ Reassure audience that they should feel free to take notes, but there will be links to the slidedeck shared at the end, including citation and external link info.
 
 ---
 [.hide-footer]
@@ -368,6 +368,8 @@ Email: daniel.kolkena@gmail.com
 Twitter: @dkolkena
 
 This slidedeck is available at:
+**http://tinyurl.com/adhd-openwest**
+The sourcecode can be found at:
 **https://github.com/dkolkena/adhd**
 
 <sub>This presentation was built in Markdown with [Deckset](https://www.deckset.com/).</sub>
